@@ -7,7 +7,7 @@ This is a simple starter project for building web applications using Webpack. It
 To get started with this project, clone the repository to your local machine and install the required dependencies:
 
 ```sh
- git clone
+ git clone git@github.com:ShaliniNayan/Project-Webpack.git
  cd webapp-starter
  npm install
 
